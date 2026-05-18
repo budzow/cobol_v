@@ -12,7 +12,7 @@
            IF  (LEBEN OR BS)
                DISPLAY "LEBEN is false."  
                DISPLAY "BS is true."               
-               DISPLAY "LEBEN is not redundant"
+               DISPLAY "BS is not redundant"
       *| LEBEN |  BS    | (LEBEN OR BS) |
       *| true  | true   |   true        |
       *| true  | false  |   true        |
